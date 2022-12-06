@@ -66,7 +66,7 @@
 
 - [MAE  fork - 🗒️ notebook added](https://github.com/taskswithcode/mae)
 
-### Exploratory 
+### Exploratory tasks
 
 - [Latent Diffusion fork - 🗒️ notebook added](https://github.com/taskswithcode/latent-diffusion)
 - [Taming Transformers fork - 🗒️ notebook added](https://github.com/taskswithcode/taming-transformers)
