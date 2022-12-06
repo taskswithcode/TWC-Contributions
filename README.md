@@ -13,40 +13,47 @@
 - [Image background removal](#image-background-removal)
 - [Video background removal](#video-background-removal)
 - [Classifying the dominant entity in the foreground of an image](#foreground-object-classification)
+- [Detecting one or more objects within images](#detecting-objects-within-images)
 
 - [Sentence embeddings for Semantic search, similarity, and clustering](sentence-embeddings)
 - [Exploratory](#exploratory)
 
 
-
+<img src="divider.png"   width="1000px"/>
 
 ### Image Background Removal
 
-[App for Image background removal](https://github.com/taskswithcode/salient_object_detection_app)[![App for Image background removal](logo16x16.png)](https://github.com/taskswithcode/salient_object_detection_app)
-
+- [👨‍💻 App Code for Image background removal](https://github.com/taskswithcode/salient_object_detection_app)
 #### SOTA models
-[InSPyReNet fork - 🗒️ notebook and app added](https://github.com/taskswithcode/InSPyReNet)
+- [InSPyReNet fork - 🗒️ notebook added](https://github.com/taskswithcode/InSPyReNet)
 
 
 ### Video Background Removal
 
-[Image background removal 🗒️ notebook and app added](https://github.com/taskswithcode/salient_object_detection_app)
+- [Image background removal 🗒️ notebook and app added](https://github.com/taskswithcode/salient_object_detection_app)
 
 ### Foreground object classification
 
-[SimMIM fork - 🗒️ notebook added](https://github.com/taskswithcode/SimMIM)
+- [SimMIM fork - 🗒️ notebook added](https://github.com/taskswithcode/SimMIM)
+
+### Detecting objects within images
+- [🤗 App implemented with OWL-ViT](https://huggingface.co/spaces/taskswithcode/Where-is-Waldo-an-OWL-VIT-Demo)
 
 ### Video quality assessment
 
-[DOVER fork - 🗒️ notebook added](https://github.com/taskswithcode/DOVER)
+- [DOVER fork - 🗒️ notebook added](https://github.com/taskswithcode/DOVER)
 
 
 ### Sentence embeddings
 
 #### Tasks
-- [👨‍💻 Code for Sentence Similarity app on TWC](https://github.com/taskswithcode/sentence_similarity_app)
-- [👨‍💻 Code for Semantic Search app on TWC](https://github.com/taskswithcode/semantic_search_app)
-- [👨‍💻 Code for Sentence Similarity app on TWC](https://github.com/taskswithcode/semantic_clustering_app)
+- [👨‍💻 Code for Sentence Similarity Comparison app on TWC](https://github.com/taskswithcode/sentence_similarity_app)
+- [👨‍💻 Code for Semantic Search Comparison app on TWC](https://github.com/taskswithcode/semantic_search_app)
+- [👨‍💻 Code for Semantic Clustering Comparison app on TWC](https://github.com/taskswithcode/semantic_clustering_app)
+- [🤗 Sentence Similarity Comparison app on Hugging Face](https://huggingface.co/spaces/taskswithcode/semantic_similarity)
+- [🤗 Semantic Search Comparison app on Hugging Face](https://huggingface.co/spaces/taskswithcode/semantic_search)
+- [🤗 Semantic Clustering Comparison app on Hugging Face](https://huggingface.co/spaces/taskswithcode/semantic_clustering)
+
 
 #### SOTA models
 - [simCSE fork - with added code 👨‍💻 for use in comparison app ](https://github.com/taskswithcode/SimCSE)
