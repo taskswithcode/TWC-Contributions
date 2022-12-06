@@ -47,9 +47,9 @@
 ### Sentence embeddings
 
 #### Tasks
-- [👨‍💻 Code for Sentence Similarity Comparison app on TWC](https://github.com/taskswithcode/sentence_similarity_app)
-- [👨‍💻 Code for Semantic Search Comparison app on TWC](https://github.com/taskswithcode/semantic_search_app)
-- [👨‍💻 Code for Semantic Clustering Comparison app on TWC](https://github.com/taskswithcode/semantic_clustering_app)
+- [👨‍💻 App code for Sentence Similarity Comparison on TWC](https://github.com/taskswithcode/sentence_similarity_app)
+- [👨‍💻 App code for Semantic Search Comparison on TWC](https://github.com/taskswithcode/semantic_search_app)
+- [👨‍💻 App code for Semantic Clustering Comparison on TWC](https://github.com/taskswithcode/semantic_clustering_app)
 - [🤗 Sentence Similarity Comparison app on Hugging Face](https://huggingface.co/spaces/taskswithcode/semantic_similarity)
 - [🤗 Semantic Search Comparison app on Hugging Face](https://huggingface.co/spaces/taskswithcode/semantic_search)
 - [🤗 Semantic Clustering Comparison app on Hugging Face](https://huggingface.co/spaces/taskswithcode/semantic_clustering)
