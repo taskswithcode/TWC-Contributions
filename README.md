@@ -15,8 +15,8 @@
 - [Classifying the dominant entity in the foreground of an image](#foreground-object-classification)
 - [Detecting one or more objects within images](#detecting-objects-within-images)
 
-- [Sentence embeddings for Semantic search, similarity, and clustering](sentence-embeddings)
-- [Exploratory](#exploratory)
+- [Sentence embeddings for Semantic search, similarity, and clustering](#sentence-embeddings)
+- [Exploratory tasks](#exploratory-tasks)
 
 
 <img src="divider.png"   width="1000px"/>
@@ -27,21 +27,33 @@
 #### SOTA models
 - [InSPyReNet fork - 🗒️ notebook added](https://github.com/taskswithcode/InSPyReNet)
 
+<img src="divider.png"   width="1000px"/>
 
 ### Video Background Removal
 
 - [Image background removal 🗒️ notebook and app added](https://github.com/taskswithcode/salient_object_detection_app)
 
+<img src="divider.png"   width="1000px"/>
+
 ### Foreground object classification
 
 - [SimMIM fork - 🗒️ notebook added](https://github.com/taskswithcode/SimMIM)
 
+
+<img src="divider.png"   width="1000px"/>
+
 ### Detecting objects within images
 - [🤗 App implemented with OWL-ViT](https://huggingface.co/spaces/taskswithcode/Where-is-Waldo-an-OWL-VIT-Demo)
+
+
+<img src="divider.png"   width="1000px"/>
 
 ### Video quality assessment
 
 - [DOVER fork - 🗒️ notebook added](https://github.com/taskswithcode/DOVER)
+
+
+<img src="divider.png"   width="1000px"/>
 
 
 ### Sentence embeddings
@@ -62,9 +74,15 @@
 - [OpenAI embeddings wrapper 👨‍💻](https://github.com/taskswithcode/openai_api)
 - [🤗 Hugging Face models wrapper 👨‍💻  for comparison app](https://github.com/taskswithcode/sentence_similarity_hf_model)
 
+
+<img src="divider.png"   width="1000px"/>
+
 ### Learning self-supervised representations for images
 
 - [MAE  fork - 🗒️ notebook added](https://github.com/taskswithcode/mae)
+
+
+<img src="divider.png"   width="1000px"/>
 
 ### Exploratory tasks
 
