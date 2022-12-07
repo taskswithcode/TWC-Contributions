@@ -1,4 +1,4 @@
-# Contributions to Open Research in code
+# Contributions to Open Research
  - Notebooks 
  - Apps
  - APIs -  _a single end-point API for a task that is powered behind the scenes by the current SOTA solution for that task - coming soon... 🚀_
