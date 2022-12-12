@@ -83,10 +83,21 @@
 <img src="divider.png"   width="1000px"/>
 
 ### Detecting objects within images
-- [🤗 App implemented with OWL-ViT](https://huggingface.co/spaces/taskswithcode/Where-is-Waldo-an-OWL-VIT-Demo)
+<p align="center">
+  <a href="assets/SingleObjectClassification.png">
+    <img src="assets/SingleObjectClassification.png" alt="Single Object Classification" width="800">
+  </a>
+  <br/>
+</p>
+
+### Current endpoint
+- Compare models through separate apps
+ - [🤗 App implemented with OWL-ViT](https://huggingface.co/spaces/taskswithcode/Where-is-Waldo-an-OWL-VIT-Demo)
+ - [🤗 App implemented with OWL-ViT](https://huggingface.co/spaces/taskswithcode/Where-is-Waldo-an-OWL-VIT-Demo)
 
 #### SOTA models
-- [GriT fork - 🗒️ notebook added](https://github.com/taskswithcode/GriT)
+- [GRiT fork](https://github.com/taskswithcode/GriT)
+  - [Evaluate in Colab](https://colab.research.google.com/github/taskswithcode/GRiT/blob/master/TWCGRiT.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/GRiT/blob/master/TWCGRiT.ipynb)
 
 <img src="divider.png"   width="1000px"/>
 
