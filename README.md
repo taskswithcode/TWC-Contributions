@@ -17,7 +17,7 @@
 1. [Image background removal -  📡  API available now 🔥 ](#image-background-removal)
 2. [Video background removal - 🗒️](#video-background-removal)
 3. [Classifying the dominant object in the foreground of an image 📱 ](#foreground-object-classification)
-4. [Detecting one or more objects within an image 📱 ](#detecting-objects-within-images)
+4. [Detecting one or more objects within an image 📱 ](#detecting-multiple-objects-within-images)
 
 5. [Sentence embeddings for Semantic search, similarity, and clustering 📱](#sentence-embeddings)
 6. [Exploratory tasks  👨‍💻 ](#exploratory-tasks)
@@ -82,10 +82,10 @@
 
 <img src="divider.png"   width="1000px"/>
 
-### Detecting objects within images
+### Detecting multiple objects within images
 <p align="center">
-  <a href="assets/SingleObjectClassification.png">
-    <img src="assets/SingleObjectClassification.png" alt="Single Object Classification" width="800">
+  <a href="assets/MultipleObjectDetection.png.png">
+    <img src="assets/MultipleObjectDetection.png.png" alt="Multiple Objects Classification" width="800">
   </a>
   <br/>
 </p>
