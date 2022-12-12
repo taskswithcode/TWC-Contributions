@@ -45,6 +45,17 @@
 ### Detecting objects within images
 - [🤗 App implemented with OWL-ViT](https://huggingface.co/spaces/taskswithcode/Where-is-Waldo-an-OWL-VIT-Demo)
 
+#### SOTA models
+- [GriT fork - 🗒️ notebook added](https://github.com/taskswithcode/GriT)
+
+<img src="divider.png"   width="1000px"/>
+
+
+### Captioning objects
+- [🤗 App implemented with OWL-ViT](https://huggingface.co/spaces/taskswithcode/Where-is-Waldo-an-OWL-VIT-Demo)
+
+#### SOTA models
+- [GriT fork - 🗒️ notebook added](https://github.com/taskswithcode/GriT)
 
 <img src="divider.png"   width="1000px"/>
 
