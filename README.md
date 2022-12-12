@@ -84,15 +84,15 @@
 
 ### Detecting multiple objects within images
 <p align="center">
-  <a href="assets/MultipleObjectDetection.png.png">
-    <img src="assets/MultipleObjectDetection.png.png" alt="Multiple Objects Classification" width="800">
+  <a href="assets/MultipleObjectDetection.png">
+    <img src="assets/MultipleObjectDetection.png" alt="Multiple Objects Classification" width="800">
   </a>
   <br/>
 </p>
 
 ### Current endpoint
 - Compare models through separate apps
- - [🤗 App implemented with OWL-ViT](https://huggingface.co/spaces/taskswithcode/Where-is-Waldo-an-OWL-VIT-Demo)
+ - [🤗 App implemented with Detic](https://huggingface.co/spaces/taskswithcode/DeticChatGPT)
  - [🤗 App implemented with OWL-ViT](https://huggingface.co/spaces/taskswithcode/Where-is-Waldo-an-OWL-VIT-Demo)
 
 #### SOTA models
