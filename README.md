@@ -1,29 +1,31 @@
 # TWC Contributions to Open Research
- - Notebooks 
- - Apps
- - APIs -  _a single end-point API for a task that is powered behind the scenes by the current SOTA solution for that task - coming soon... 🚀_
-    - When APIs are eventually exposed for models with permissive licenses, [contact](mailto:twc@taskswithcode.com) if you need a privately hosted API end-point that is of use to your business. When that happens, any profit will be shared equally with the researcher whose model was used in the API.
+
+ - APIs 📡 -  _a single end-point API for a task that is powered behind the scenes by the current SOTA solution for that task_
+    - **Free evaluation APIs** are exposed for SOTA models with permissive licenses
+    - [Contact](mailto:twc@taskswithcode.com) if you need a privately hosted API end-point that is of use to your business. _Note: Profit will be shared equally with the researcher whose model was used in the API_
+ - Apps 📱 
+ - Notebooks 🗒️
+ - Explorations  👨‍💻
 
 
 <img src="divider.png"   width="1000px"/>
 
 
-### Tasks solved using SOTA models
+### Tasks solved using SOTA models.
+1. [Image background removal -  📡  API available now 🔥 ](#image-background-removal)
+2. [Video background removal - 🗒️](#video-background-removal)
+3. [Classifying the dominant entity in the foreground of an image 📱 ](#foreground-object-classification)
+4. [Detecting one or more objects within an image 📱 ](#detecting-objects-within-images)
 
-- [Image background removal](#image-background-removal)
-- [Video background removal](#video-background-removal)
-- [Classifying the dominant entity in the foreground of an image](#foreground-object-classification)
-- [Detecting one or more objects within images](#detecting-objects-within-images)
-
-- [Sentence embeddings for Semantic search, similarity, and clustering](#sentence-embeddings)
-- [Exploratory tasks](#exploratory-tasks)
+5. [Sentence embeddings for Semantic search, similarity, and clustering 📱](#sentence-embeddings)
+6. [Exploratory tasks  👨‍💻 ](#exploratory-tasks)
 
 
 <img src="divider.png"   width="1000px"/>
 
 ### Image Background Removal
 
-- [👨‍💻 App Code for Image background removal](https://github.com/taskswithcode/salient_object_detection_app)
+- 📡 for Image background removal. Usage illustrated in [Hugging Face app 🤗](https://huggingface.co/spaces/taskswithcode/salient-object-detection) & [TWC app 📱](https://www.taskswithcode.com/salient_object_detection/)
 #### SOTA models
 - [InSPyReNet fork - 🗒️ notebook added](https://github.com/taskswithcode/InSPyReNet)
 
