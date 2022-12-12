@@ -65,8 +65,8 @@
 ### Foreground object classification
 
 <p align="center">
-  <a href="assets/SOD.png">
-    <img src="assets/SOD.png" alt="Image Background Removal" width="800">
+  <a href="assets/SingleObjectClassification.png">
+    <img src="assets/SingleObjectClassification.png" alt="Single Object Classification" width="800">
   </a>
   <br/>
 </p>
