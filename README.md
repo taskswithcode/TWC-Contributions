@@ -32,7 +32,7 @@
   <br/>
 </p>
 
-### Current offering
+### Current contribution
 - 📡 **API** for Image background removal. Usage illustrated in [Hugging Face app 🤗](https://huggingface.co/spaces/taskswithcode/salient-object-detection) & [TWC hosted app 📱](https://www.taskswithcode.com/salient_object_detection/)
 #### SOTA model
 - [InSPyReNet fork](https://github.com/taskswithcode/InSPyReNet)
@@ -43,7 +43,16 @@
 
 ### Video Background Removal
 
-- [Evaluate in Colab](https://colab.research.google.com/github/taskswithcode/InSPyReNet/blob/master/TWCSOD.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/InSPyReNet/blob/master/TWCSOD.ipynb)
+<p align="center">
+  <a href="assets/SOD.png">
+    <img src="assets/SOD.png" alt="Image Background Removal" width="400">
+  </a>
+  <br/>
+</p>
+
+### Current contribution
+
+- [🗒️ Notebook](https://colab.research.google.com/github/taskswithcode/InSPyReNet/blob/master/TWCSOD.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/InSPyReNet/blob/master/TWCSOD.ipynb)
 
 #### SOTA model
 - [InSPyReNet fork](https://github.com/taskswithcode/InSPyReNet)
