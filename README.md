@@ -2,19 +2,19 @@
 
  - APIs 📡 -  _a single end-point API for a task that is powered behind the scenes by the current SOTA solution for that task_
     - **Free evaluation APIs** are exposed for SOTA models with permissive licenses
-    - [Contact](mailto:twc@taskswithcode.com) if you need a privately hosted API end-point that is of use to your business. _Note: Profit will be shared equally with the researcher whose model was used in the API_
+    - [Contact](mailto:twc@taskswithcode.com) if you need a privately hosted API end-point for your use case. 
  - Apps 📱 
- - Notebooks 🗒️
+ - Notebooks 🗒️ ![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)
  - Explorations  👨‍💻
 
 
 <img src="divider.png"   width="1000px"/>
 
 
-### Tasks solved using SOTA models.
+### Tasks solved using SOTA models
 1. [Image background removal -  📡  API available now 🔥 ](#image-background-removal)
 2. [Video background removal - 🗒️](#video-background-removal)
-3. [Classifying the dominant entity in the foreground of an image 📱 ](#foreground-object-classification)
+3. [Classifying the dominant object in the foreground of an image 📱 ](#foreground-object-classification)
 4. [Detecting one or more objects within an image 📱 ](#detecting-objects-within-images)
 
 5. [Sentence embeddings for Semantic search, similarity, and clustering 📱](#sentence-embeddings)
@@ -25,22 +25,31 @@
 
 ### Image Background Removal
 
-- 📡 for Image background removal. Usage illustrated in [Hugging Face app 🤗](https://huggingface.co/spaces/taskswithcode/salient-object-detection) & [TWC app 📱](https://www.taskswithcode.com/salient_object_detection/)
-#### SOTA models
-- [InSPyReNet fork - 🗒️ notebook added](https://github.com/taskswithcode/InSPyReNet)
+- 📡 for Image background removal. Usage illustrated in [Hugging Face app 🤗](https://huggingface.co/spaces/taskswithcode/salient-object-detection) & [TWC hosted app 📱](https://www.taskswithcode.com/salient_object_detection/)
+#### SOTA model
+- [InSPyReNet fork](https://github.com/taskswithcode/InSPyReNet)
+   - [📱 TWC hosted app](https://www.taskswithcode.com/salient_object_detection/) & [Hugging Face app 🤗](https://huggingface.co/spaces/taskswithcode/salient-object-detection)
+   - [Evaluate in Colab](https://colab.research.google.com/github/taskswithcode/InSPyReNet/blob/master/TWCSOD.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/InSPyReNet/blob/master/TWCSOD.ipynb)
 
 <img src="divider.png"   width="1000px"/>
 
 ### Video Background Removal
 
-- [Image background removal 🗒️ notebook and app added](https://github.com/taskswithcode/salient_object_detection_app)
+- [Evaluate in Colab](https://colab.research.google.com/github/taskswithcode/InSPyReNet/blob/master/TWCSOD.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/InSPyReNet/blob/master/TWCSOD.ipynb)
+
+#### SOTA model
+- [InSPyReNet fork](https://github.com/taskswithcode/InSPyReNet)
+  - [Evaluate in Colab](https://colab.research.google.com/github/taskswithcode/InSPyReNet/blob/master/TWCSOD.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/InSPyReNet/blob/master/TWCSOD.ipynb)
 
 <img src="divider.png"   width="1000px"/>
 
 ### Foreground object classification
 
-- [SimMIM fork - 🗒️ notebook added](https://github.com/taskswithcode/SimMIM)
+- [Evaluate in Colab](https://colab.research.google.com/github/taskswithcode/SimMIM/blob/master/TWCSimMim.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/SimMIM/blob/master/TWCSimMim.ipynb)
 
+#### SOTA model
+- [SimMIM fork](https://github.com/taskswithcode/SimMIM)
+  - [Evaluate in Colab](https://colab.research.google.com/github/taskswithcode/SimMIM/blob/master/TWCSimMim.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/SimMIM/blob/master/TWCSimMim.ipynb)
 
 <img src="divider.png"   width="1000px"/>
 
