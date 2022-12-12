@@ -7,7 +7,9 @@
  - Notebooks 🗒️ ![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)
  - Explorations  👨‍💻
 
-
+<p>
+<div style=\"font-size:16px; color: #dfdfdf; text-align: center\"><i>All test images and videos used in the illusrations unless explicitly specified below are from <a href="https://www.pexels.com"><b>Pexels</b></a> - a royalty free site for images and videos where creators upload high quality images for sharing</i></div>
+</p>
 <img src="divider.png"   width="1000px"/>
 
 
@@ -27,12 +29,12 @@
 
 <p align="center">
   <a href="assets/SOD.png">
-    <img src="assets/SOD.png" alt="Image Background Removal" width="400">
+    <img src="assets/SOD.png" alt="Image Background Removal" width="800">
   </a>
   <br/>
 </p>
 
-### Current contribution
+### Current endpoint
 - 📡 **API** for Image background removal. Usage illustrated in [Hugging Face app 🤗](https://huggingface.co/spaces/taskswithcode/salient-object-detection) & [TWC hosted app 📱](https://www.taskswithcode.com/salient_object_detection/)
 #### SOTA model
 - [InSPyReNet fork](https://github.com/taskswithcode/InSPyReNet)
@@ -44,13 +46,13 @@
 ### Video Background Removal
 
 <p align="center">
-  <a href="assets/SOD.png">
-    <img src="assets/SOD.png" alt="Image Background Removal" width="400">
+  <a href="assets/SODV.png">
+    <img src="assets/SODV.png" alt="Video Background Removal" width="800">
   </a>
   <br/>
 </p>
 
-### Current contribution
+### Current endpoint
 
 - [🗒️ Notebook](https://colab.research.google.com/github/taskswithcode/InSPyReNet/blob/master/TWCSOD.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/InSPyReNet/blob/master/TWCSOD.ipynb)
 
