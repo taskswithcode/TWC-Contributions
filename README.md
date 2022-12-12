@@ -64,7 +64,17 @@
 
 ### Foreground object classification
 
+<p align="center">
+  <a href="assets/SOD.png">
+    <img src="assets/SOD.png" alt="Image Background Removal" width="800">
+  </a>
+  <br/>
+</p>
+
+### Current endpoint
+
 - [Evaluate in Colab](https://colab.research.google.com/github/taskswithcode/SimMIM/blob/master/TWCSimMim.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/SimMIM/blob/master/TWCSimMim.ipynb)
+- Classifies input image into one of [1000 classes](https://github.com/taskswithcode/SimMIM/blob/main/imagenet_code_to_label_map.txt)
 
 #### SOTA model
 - [SimMIM fork](https://github.com/taskswithcode/SimMIM)
