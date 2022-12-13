@@ -8,7 +8,9 @@
  - Explorations  👨‍💻
 
 <p>
-<div style=\"font-size:16px; color: #dfdfdf; text-align: center\"><i>All test images and videos used in the illusrations unless explicitly specified below are from <a href="https://www.pexels.com"><b>Pexels</b></a> - a royalty free site for images and videos where creators upload high quality images for sharing</i></div>
+ <div style=\"font-size:16px; color: #dfdfdf; text-align: center\"> The development for each task below is at different stages of development -  exploring solutions 👨‍💻, model evaluation using notebooks 🗒️, apps to compare SOTA models 📱, and an  endpoint API 📡 for a task. The goal is to have an endpoint API for each task with one or more SOTA models to choose from for that task. </div>
+<br/>
+<div style=\"font-size:8px; color: #dfdfdf; text-align: center\"><i>All test images and videos used in the illustrations below unless explicitly specified  are from <a href="https://www.pexels.com"><b>Pexels</b></a> - a royalty free site for images and videos where creators upload high quality images for sharing</i></div>
 </p>
 <img src="divider.png"   width="1000px"/>
 
@@ -17,10 +19,12 @@
 1. [Image background removal -  📡  API available now 🔥 ](#image-background-removal)
 2. [Video background removal - 🗒️](#video-background-removal)
 3. [Classifying the dominant object in the foreground of an image 📱 ](#foreground-object-classification)
-4. [Detecting one or more objects within an image 📱 ](#detecting-multiple-objects-within-images)
-
-5. [Sentence embeddings for Semantic search, similarity, and clustering 📱](#sentence-embeddings)
-6. [Exploratory tasks  👨‍💻 ](#exploratory-tasks)
+4. [Detecting multiple objects within an image 📱 ](#detecting-multiple-objects-within-images)
+5. [Image Captioning](#image-captioning)
+6. [Video quality assessment](#video-quality-assessment)
+7. [Learning image embeddings](#self-supervised-image-representations)
+8. [Sentence embeddings for Semantic search, similarity, and clustering 📱](#sentence-embeddings)
+9. [Exploratory tasks  👨‍💻 ](#exploratory-tasks)
 
 
 <img src="divider.png"   width="1000px"/>
@@ -35,7 +39,7 @@
 </p>
 
 ### Current endpoint
-- 📡 **API** for Image background removal. Usage illustrated in [Hugging Face app 🤗](https://huggingface.co/spaces/taskswithcode/salient-object-detection) & [TWC hosted app 📱](https://www.taskswithcode.com/salient_object_detection/)
+- 📡 **API** for Image background removal. API usage illustrated in [Hugging Face app 🤗](https://huggingface.co/spaces/taskswithcode/salient-object-detection) & [TWC hosted app 📱](https://www.taskswithcode.com/salient_object_detection/)
 #### SOTA model
 - [InSPyReNet fork](https://github.com/taskswithcode/InSPyReNet)
    - [📱 TWC hosted app](https://www.taskswithcode.com/salient_object_detection/) & [Hugging Face app 🤗](https://huggingface.co/spaces/taskswithcode/salient-object-detection)
@@ -73,8 +77,8 @@
 
 ### Current endpoint
 
-- [Compare two model outputs (SimMIM & VIT base) in Colab](https://colab.research.google.com/github/taskswithcode/SimMIM/blob/master/TWCSimMim.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/SimMIM/blob/master/TWCSimMim.ipynb)
-- Classifies input image into one of [1000 classes](https://github.com/taskswithcode/SimMIM/blob/main/imagenet_code_to_label_map.txt)
+- [🗒️ Compare two model outputs (SimMIM & VIT base) in Colab](https://colab.research.google.com/github/taskswithcode/SimMIM/blob/master/TWCSimMim.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/SimMIM/blob/master/TWCSimMim.ipynb)
+  - Classifies input image into one of [1000 classes](https://github.com/taskswithcode/SimMIM/blob/main/imagenet_code_to_label_map.txt)
 
 #### SOTA model
 - [SimMIM fork](https://github.com/taskswithcode/SimMIM)
@@ -92,8 +96,8 @@
 
 ### Current endpoint
 - Compare models through separate apps
- - [🤗 App implemented with Detic](https://huggingface.co/spaces/taskswithcode/DeticChatGPT)
- - [🤗 App implemented with OWL-ViT](https://huggingface.co/spaces/taskswithcode/Where-is-Waldo-an-OWL-VIT-Demo)
+  - [📱  App implemented with Detic 🤗](https://huggingface.co/spaces/taskswithcode/DeticChatGPT)
+  - [📱  App implemented with OWL-ViT 🤗](https://huggingface.co/spaces/taskswithcode/Where-is-Waldo-an-OWL-VIT-Demo)
 
 #### SOTA models
 - [GRiT fork](https://github.com/taskswithcode/GriT)
@@ -102,7 +106,7 @@
 <img src="divider.png"   width="1000px"/>
 
 
-### Captioning objects
+### Image Captioning
 - [🤗 App implemented with OWL-ViT](https://huggingface.co/spaces/taskswithcode/Where-is-Waldo-an-OWL-VIT-Demo)
 
 #### SOTA models
@@ -117,6 +121,13 @@
 
 <img src="divider.png"   width="1000px"/>
 
+### Self-supervised image representations
+
+- [MAE  fork - 🗒️ notebook added](https://github.com/taskswithcode/mae)
+
+
+
+<img src="divider.png"   width="1000px"/>
 
 ### Sentence embeddings
 
@@ -139,12 +150,7 @@
 
 <img src="divider.png"   width="1000px"/>
 
-### Learning self-supervised representations for images
 
-- [MAE  fork - 🗒️ notebook added](https://github.com/taskswithcode/mae)
-
-
-<img src="divider.png"   width="1000px"/>
 
 ### Exploratory tasks
 
