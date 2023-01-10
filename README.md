@@ -6,7 +6,7 @@
 
  - [![APIs](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAPI.svg)](https://huggingface.co/spaces/taskswithcode/salient-object-detection) -   _**Free APIs** for tasks using SOTA models (with permissive licenses). Please use for evaluation only to avoid overwhelming servers_
  
- - ![Apps](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg)
+ - ![Apps](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg) - _demo apps hosted on TWC servers or on HuggingFace
  - ![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)
  - ![Explorations](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCExplorations.svg)
 
