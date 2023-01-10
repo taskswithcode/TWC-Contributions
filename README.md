@@ -1,14 +1,14 @@
 # TWC Contributions to Open Research
 
-[![SOTA Researchers](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/SOTAResearchers.svg)](https://github.com/taskswithcode/sota_researchers_with_published_code) - _Highlighting the work of SOTA reseachers who publish code, models, app & notebooks (in some cases) with their paper_
+- [![SOTA Researchers](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/SOTAResearchers.svg)](https://github.com/taskswithcode/sota_researchers_with_published_code) - _Highlighting the work of SOTA reseachers who publish code, models, app & notebooks (in some cases) with their paper_
+- [![Discover and Compare SOTA models](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCCompare.svg)](https://taskswithcode.com/find_sota_repos/) - _Discover and compare SOTA solutions for tasks with a few keystrokes/clicks_
 
-<img src="divider.png"   width="1000px"/>
 
  - [![APIs](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAPI.svg)](https://huggingface.co/spaces/taskswithcode/salient-object-detection) -   _**Free APIs** for tasks using SOTA models (with permissive licenses). Please use for evaluation only to avoid overwhelming servers_
  
- - ![Apps](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg) - _demo apps hosted on TWC servers or on HuggingFace
- - ![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)
- - ![Explorations](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCExplorations.svg)
+ - ![Apps](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg) - _demo apps hosted on TWC servers or on HuggingFace_
+ - ![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg) - _notebooks in Google colab_
+ - ![Explorations](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCExplorations.svg) - _Github repos with experiments that are work in progress_
 
 
  The development for each task below is at different stages of development -  ![exploring solutions](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCExplorations.svg) , model evaluation using ![notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg), ![apps](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg) to compare SOTA models, and an  endpoint ![API](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAPI.svg) for a task. The goal is to have an endpoint API for each task with one or more SOTA models to choose from for that task.
