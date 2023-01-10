@@ -9,6 +9,7 @@
  - ![Apps](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg) - _demo apps hosted on TWC servers or on HuggingFace_
  - ![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg) - _notebooks in Google colab_
  - ![Explorations](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCExplorations.svg) - _Github repos with experiments that are work in progress_
+  - [![Newsletters](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNewsletter.svg)](https://taskswithcode.ghost.io/) - _Aperiodic newsletters on [Ghost](https://taskswithcode.ghost.io/) and [Medium](https://medium.com/taskswithcode)_
 
 
  The development for each task below is at different stages of development -  ![exploring solutions](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCExplorations.svg) , model evaluation using ![notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg), ![apps](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg) to compare SOTA models, and an  endpoint ![API](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAPI.svg) for a task. The goal is to have an endpoint API for each task with one or more SOTA models to choose from for that task.
