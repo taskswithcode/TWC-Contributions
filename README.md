@@ -4,9 +4,8 @@
 
 <img src="divider.png"   width="1000px"/>
 
- - [![APIs](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAPI.svg)](https://huggingface.co/spaces/taskswithcode/salient-object-detection) -  _a single end-point API for a task that is powered behind the scenes by the current SOTA solution for that task_
-    - _**Free evaluation APIs** for SOTA models with permissive licenses_
-    - _[Contact](mailto:twc@taskswithcode.com) if you need a privately hosted API end-point for your use case._
+ - [![APIs](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAPI.svg)](https://huggingface.co/spaces/taskswithcode/salient-object-detection) -   _**Free APIs** for tasks using SOTA models with permissive licenses. Please use for evaluation only to avoid overwhelming servers_
+ 
  - ![Apps](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg)
  - ![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)
  - ![Explorations](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCExplorations.svg)
