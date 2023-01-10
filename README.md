@@ -1,8 +1,12 @@
 # TWC Contributions to Open Research
 
+[![SOTA Researchers](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/SOTAResearchers.svg)](https://github.com/taskswithcode/sota_researchers_with_published_code) - _Highlighting the work of SOTA reseachers who publish code, models, app & notebooks (in some cases) with their paper_
+
+<img src="divider.png"   width="1000px"/>
+
  - [![APIs](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAPI.svg)](https://huggingface.co/spaces/taskswithcode/salient-object-detection) -  _a single end-point API for a task that is powered behind the scenes by the current SOTA solution for that task_
-    - **Free evaluation APIs** are exposed for SOTA models with permissive licenses
-    - [Contact](mailto:twc@taskswithcode.com) if you need a privately hosted API end-point for your use case. 
+    - _**Free evaluation APIs** for SOTA models with permissive licenses_
+    - _[Contact](mailto:twc@taskswithcode.com) if you need a privately hosted API end-point for your use case._
  - ![Apps](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg)
  - ![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)
  - ![Explorations](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCExplorations.svg)
