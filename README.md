@@ -4,7 +4,7 @@
 
 <img src="divider.png"   width="1000px"/>
 
- - [![APIs](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAPI.svg)](https://huggingface.co/spaces/taskswithcode/salient-object-detection) -   _**Free APIs** for tasks using SOTA models with permissive licenses. Please use for evaluation only to avoid overwhelming servers_
+ - [![APIs](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAPI.svg)](https://huggingface.co/spaces/taskswithcode/salient-object-detection) -   _**Free APIs** for tasks using SOTA models (with permissive licenses). Please use for evaluation only to avoid overwhelming servers_
  
  - ![Apps](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg)
  - ![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)
