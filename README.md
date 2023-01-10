@@ -1,17 +1,18 @@
 # TWC Contributions to Open Research
 
- - APIs 📡 -  _a single end-point API for a task that is powered behind the scenes by the current SOTA solution for that task_
+ - ![APIs](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAPI.svg) -  _a single end-point API for a task that is powered behind the scenes by the current SOTA solution for that task_
     - **Free evaluation APIs** are exposed for SOTA models with permissive licenses
     - [Contact](mailto:twc@taskswithcode.com) if you need a privately hosted API end-point for your use case. 
- - Apps 📱 
- - Notebooks 🗒️ ![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)
- - Explorations  👨‍💻
+ - ![Apps](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg)
+ - ![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)
+ - ![Explorations](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCExplorations.svg)
 
-<p>
- <div style=\"font-size:16px; color: #dfdfdf; text-align: center\"> The development for each task below is at different stages of development -  exploring solutions 👨‍💻, model evaluation using notebooks 🗒️, apps to compare SOTA models 📱, and an  endpoint API 📡 for a task. The goal is to have an endpoint API for each task with one or more SOTA models to choose from for that task. </div>
+
+ The development for each task below is at different stages of development -  ![exploring solutions](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCExplorations.svg) , model evaluation using ![notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg), ![apps](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg) to compare SOTA models, and an  endpoint ![API](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAPI.svg) for a task. The goal is to have an endpoint API for each task with one or more SOTA models to choose from for that task.
 <br/>
-<div style=\"font-size:8px; color: #dfdfdf; text-align: center\"><i>All test images and videos used in the illustrations below unless explicitly specified  are from <a href="https://www.pexels.com"><b>Pexels</b></a> - a royalty free site for images and videos where creators upload high quality images for sharing</i></div>
-</p>
+<div><i>All test images and videos used in the illustrations below unless explicitly specified  are from <a href="https://www.pexels.com"><b>Pexels</b></a> - a royalty free site for images and videos where creators upload high quality images for sharing</i></div>
+
+
 <img src="divider.png"   width="1000px"/>
 
 
