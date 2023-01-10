@@ -1,6 +1,6 @@
 # TWC Contributions to Open Research
 
- - ![APIs](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAPI.svg) -  _a single end-point API for a task that is powered behind the scenes by the current SOTA solution for that task_
+ - [![APIs](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAPI.svg)](https://huggingface.co/spaces/taskswithcode/salient-object-detection) -  _a single end-point API for a task that is powered behind the scenes by the current SOTA solution for that task_
     - **Free evaluation APIs** are exposed for SOTA models with permissive licenses
     - [Contact](mailto:twc@taskswithcode.com) if you need a privately hosted API end-point for your use case. 
  - ![Apps](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg)
