@@ -134,16 +134,13 @@
 ### Sentence embeddings
 
 #### Tasks
-- [👨‍💻 App code for Sentence Similarity Comparison on TWC](https://github.com/taskswithcode/sentence_similarity_app)
-- [👨‍💻 App code for Semantic Search Comparison on TWC](https://github.com/taskswithcode/semantic_search_app)
-- [👨‍💻 App code for Semantic Clustering Comparison on TWC](https://github.com/taskswithcode/semantic_clustering_app)
-- [🤗 Sentence Similarity Comparison app on Hugging Face](https://huggingface.co/spaces/taskswithcode/semantic_similarity)
-- [🤗 Semantic Search Comparison app on Hugging Face](https://huggingface.co/spaces/taskswithcode/semantic_search)
-- [🤗 Semantic Clustering Comparison app on Hugging Face](https://huggingface.co/spaces/taskswithcode/semantic_clustering)
+- Sentence Similarity Comparison app  [![Apps](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg)](https://taskswithcode.com/sentence_similarity/)  & [![Hugging Face app](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/huggingface.svg)](https://huggingface.co/spaces/taskswithcode/semantic_similarity)
+-  Semantic Search Comparison app  [![Apps](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg)](https://taskswithcode.com/semantic_search/)  & [![Hugging Face app](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/huggingface.svg)](https://huggingface.co/spaces/taskswithcode/semantic_search)
+-   Semantic Clustering Comparison app  [![Apps](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg)](https://taskswithcode.com/semantic_clustering/)  & [![Hugging Face app](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/huggingface.svg)](https://huggingface.co/spaces/taskswithcode/semantic_clustering)
 
 
 #### SOTA models
-- [simCSE fork - with added code 👨‍💻 for use in comparison app ](https://github.com/taskswithcode/SimCSE)
+- [SimCSE fork - with added code 👨‍💻 for use in comparison app ](https://github.com/taskswithcode/SimCSE)
 - [SGPT fork - with added code 👨‍💻 for use in comparison app ](https://github.com/taskswithcode/sgpt)
 - [DCPCSE fork - with added code 👨‍💻 for use in comparison app ](https://github.com/taskswithcode/DCPCSE)
 - [OpenAI embeddings wrapper 👨‍💻](https://github.com/taskswithcode/openai_api)
