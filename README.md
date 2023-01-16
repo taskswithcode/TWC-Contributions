@@ -1,6 +1,6 @@
 # Contributions to Open Research
 
-- [![SOTA Researchers](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/SOTAResearchers.svg)](https://github.com/taskswithcode/sota_researchers_with_published_code) - _Highlighting the work of SOTA reseachers who publish code, models, app & notebooks (in some cases) with their paper_
+- [![SOTA Researchers](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/SOTAResearchers.svg)](https://github.com/taskswithcode/sota_researchers_with_published_code) - _Highlighting the work of SOTA reseachers &practitioners who publish code, models, app & notebooks (in some cases) for a paper_
 - [![Discover and Compare SOTA models](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCCompare.svg)](https://taskswithcode.com/find_sota_repos/) - _Discover and compare SOTA solutions for tasks with a few keystrokes/clicks_
 
 
@@ -13,19 +13,20 @@
 
 
 
+
 <img src="divider.png"   width="1000px"/>
 
 
 ### Tasks solved using SOTA models
-1. [Image background removal -  📡  API available now 🔥 ](#image-background-removal)
-2. [Video background removal - 🗒️](#video-background-removal)
-3. [Classifying the dominant object in the foreground of an image 📱 ](#foreground-object-classification)
-4. [Detecting multiple objects within an image 📱 ](#detecting-multiple-objects-within-images)
+1. [Image background removal -  API available now ](#image-background-removal)
+2. [Video background removal ](#video-background-removal)
+3. [Classifying the dominant object in the foreground of an image](#foreground-object-classification)
+4. [Detecting multiple objects within an image](#detecting-multiple-objects-within-images)
 5. [Image Captioning](#image-captioning)
 6. [Video quality assessment](#video-quality-assessment)
 7. [Learning image embeddings](#self-supervised-image-representations)
-8. [Sentence embeddings for Semantic search, similarity, and clustering 📱](#sentence-embeddings)
-9. [Exploratory tasks  👨‍💻 ](#exploratory-tasks)
+8. [Sentence embeddings for Semantic search, similarity, and clustering](#sentence-embeddings)
+9. [Exploratory tasks](#exploratory-tasks)
 
 
 <img src="divider.png"   width="1000px"/>
@@ -40,10 +41,10 @@
 </p>
 
 ### Current endpoint
-- 📡 **API** for Image background removal. API usage illustrated in [Hugging Face app 🤗](https://huggingface.co/spaces/taskswithcode/salient-object-detection) & [TWC hosted app 📱](https://www.taskswithcode.com/salient_object_detection/)
-#### SOTA model
+- [![APIs](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAPI.svg)](https://www.taskswithcode.com/salient_object_detection/) for Image background removal. API usage illustrated in  [![Hugging Face app](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/huggingface.svg)](https://huggingface.co/spaces/taskswithcode/salient-object-detection)  & [![TWC hosted app](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg)](https://www.taskswithcode.com/salient_object_detection/)
+#### SOTA model for this task
 - [InSPyReNet fork](https://github.com/taskswithcode/InSPyReNet)
-   - [📱 TWC hosted app](https://www.taskswithcode.com/salient_object_detection/) & [Hugging Face app 🤗](https://huggingface.co/spaces/taskswithcode/salient-object-detection)
+   - [![Apps](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg)](https://taskswithcode.com/salient_object_detection/)  & [![Hugging Face app](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/huggingface.svg)](https://huggingface.co/spaces/taskswithcode/salient-object-detection)
    - [Evaluate in Colab](https://colab.research.google.com/github/taskswithcode/InSPyReNet/blob/master/TWCSOD.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/InSPyReNet/blob/master/TWCSOD.ipynb)
 
 <img src="divider.png"   width="1000px"/>
@@ -59,7 +60,7 @@
 
 ### Current endpoint
 
-- [🗒️ Notebook](https://colab.research.google.com/github/taskswithcode/InSPyReNet/blob/master/TWCSOD.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/InSPyReNet/blob/master/TWCSOD.ipynb)
+- [Notebook](https://colab.research.google.com/github/taskswithcode/InSPyReNet/blob/master/TWCSOD.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/InSPyReNet/blob/master/TWCSOD.ipynb)
 
 #### SOTA model
 - [InSPyReNet fork](https://github.com/taskswithcode/InSPyReNet)
@@ -78,7 +79,7 @@
 
 ### Current endpoint
 
-- [🗒️ Compare two model outputs (SimMIM & VIT base) in Colab](https://colab.research.google.com/github/taskswithcode/SimMIM/blob/master/TWCSimMim.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/SimMIM/blob/master/TWCSimMim.ipynb)
+- [ Compare two model outputs (SimMIM & VIT base) in Colab](https://colab.research.google.com/github/taskswithcode/SimMIM/blob/master/TWCSimMim.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/SimMIM/blob/master/TWCSimMim.ipynb)
   - Classifies input image into one of [1000 classes](https://github.com/taskswithcode/SimMIM/blob/main/imagenet_code_to_label_map.txt)
 
 #### SOTA model
@@ -96,9 +97,9 @@
 </p>
 
 ### Current endpoint
-- Compare models through separate apps
-  - [📱  App implemented with Detic 🤗](https://huggingface.co/spaces/taskswithcode/DeticChatGPT)
-  - [📱  App implemented with OWL-ViT 🤗](https://huggingface.co/spaces/taskswithcode/Where-is-Waldo-an-OWL-VIT-Demo)
+- Compare models through separate apps (Detic & OWL-ViT)
+  - [![Hugging Face app](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/huggingface.svg)](https://huggingface.co/spaces/taskswithcode/DeticChatGPT).  Detic Model
+  - [![Hugging Face app](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/huggingface.svg)](https://huggingface.co/spaces/taskswithcode/Where-is-Waldo-an-OWL-VIT-Demo) OWL-ViT model
 
 #### SOTA models
 - [GRiT fork](https://github.com/taskswithcode/GriT)
@@ -108,23 +109,23 @@
 
 
 ### Image Captioning
-- [🤗 App implemented with OWL-ViT](https://huggingface.co/spaces/taskswithcode/Where-is-Waldo-an-OWL-VIT-Demo)
+- [![Hugging Face app](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/huggingface.svg)](https://huggingface.co/spaces/taskswithcode/Where-is-Waldo-an-OWL-VIT-Demo) OWL-ViT model
 
 #### SOTA models
-- [GriT fork - 🗒️ notebook added](https://github.com/taskswithcode/GriT)
+-  GRIT fork [Evaluate in Colab](https://colab.research.google.com/github/taskswithcode/GRiT/blob/master/TWCGRiT.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/GRiT/blob/master/TWCGRiT.ipynb)
 
 <img src="divider.png"   width="1000px"/>
 
 ### Video quality assessment
 
-- [DOVER fork - 🗒️ notebook added](https://github.com/taskswithcode/DOVER)
+- DOVER fork  [Evaluate in Colab](https://colab.research.google.com/github/taskswithcode/DOVER/blob/master/TWCDOVER.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/DOVER/blob/master/TWCDOVER.ipynb)
 
 
 <img src="divider.png"   width="1000px"/>
 
 ### Self-supervised image representations
 
-- [MAE  fork - 🗒️ notebook added](https://github.com/taskswithcode/mae)
+-  [MAE fork Evaluate in Colab](https://colab.research.google.com/github/taskswithcode/mae/blob/master/TWCMAE.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/mae/blob/master/TWCMAE.ipynb)
 
 
 
@@ -155,7 +156,7 @@
 
 ### Exploratory tasks
 
-- [Latent Diffusion fork - 🗒️ notebook added](https://github.com/taskswithcode/latent-diffusion)
-- [Taming Transformers fork - 🗒️ notebook added](https://github.com/taskswithcode/taming-transformers)
+-  [Latent Diffusion fork with Colab notebook](https://colab.research.google.com/github/taskswithcode/latent-diffusion/blob/master/TWCLatentDiffusion.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/latent-diffusion/blob/master/TWCLatentDiffusion.ipynb)   
+- [Taming Transformers fork with Colab notebook](https://colab.research.google.com/github/taskswithcode/taming-transformers/blob/master/TWCTamingTransformer.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/taming-transformers/blob/master/TWCTamingTransformer.ipynb)
 
 
