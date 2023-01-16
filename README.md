@@ -140,9 +140,9 @@
 
 
 #### SOTA models
-- [SimCSE fork - with added code 👨‍💻 for use in comparison app ](https://github.com/taskswithcode/SimCSE)
-- [SGPT fork - with added code 👨‍💻 for use in comparison app ](https://github.com/taskswithcode/sgpt)
-- [DCPCSE fork - with added code 👨‍💻 for use in comparison app ](https://github.com/taskswithcode/DCPCSE)
+- [SimCSE fork -  👨‍💻 for use in comparison app ](https://github.com/taskswithcode/SimCSE)
+- [SGPT fork -  👨‍💻 for use in comparison app ](https://github.com/taskswithcode/sgpt)
+- [DCPCSE fork -  👨‍💻 for use in comparison app ](https://github.com/taskswithcode/DCPCSE)
 - [OpenAI embeddings wrapper 👨‍💻](https://github.com/taskswithcode/openai_api)
 - [🤗 Hugging Face models wrapper 👨‍💻  for comparison app](https://github.com/taskswithcode/sentence_similarity_hf_model)
 
