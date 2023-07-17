@@ -1,5 +1,7 @@
 # Contributions to Open Research
 
+- [![SOTA Researchers](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCShorts.svg)]([https://github.com/taskswithcode/sota_researchers_with_published_code](https://github.com/taskswithcode/probability_for_ml_notebooks)) - _ML Concepts explained in under a minute with accompanying notebook_
+
 - [![SOTA Researchers](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/SOTAResearchers.svg)](https://github.com/taskswithcode/sota_researchers_with_published_code) - _Highlighting the work of SOTA reseachers &practitioners who publish code, models, app & notebooks (in some cases) for a paper_
 - [![Discover and Compare SOTA models](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCCompare.svg)](https://taskswithcode.com/find_sota_repos/) - _Discover and compare SOTA solutions for tasks with a few keystrokes/clicks_
 
